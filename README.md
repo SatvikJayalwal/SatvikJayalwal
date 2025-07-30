@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Satvik+Jayalwal+-+SDET+%7C+Python+Automation+Engineer;I+Build+Robust+Test+Frameworks+with+CI%2FCD%2C+Selenium+%26+PyTest;Driven+by+Clean+Code%2C+DevOps+Best+Practices%2C+and+Test+Reliability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Satvik+Jayalwal+-+SDET (Software Development Engineer in Test);I+Build+Robust+Test+Frameworks+with+CI%2FCD%2C+Selenium+%26+PyTest;Driven+by+Clean+Code%2C+DevOps+Best+Practices%2C+and+Test+Reliability" alt="Typing SVG" />
 </div>
 
 
