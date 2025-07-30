@@ -1,13 +1,15 @@
+<h2 align="center">
+  🚀 Empowering Quality Through Code, Automation & Precision Testing
+</h2>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Satvik+Jayalwal;SDET+%7C+Python+Automation+Engineer;Selenium+%7C+PyTest+%7C+CI%2FCD+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Satvik+Jayalwal+-+SDET+%7C+Python+Automation+Engineer;I+Build+Robust+Test+Frameworks+with+CI%2FCD%2C+Selenium+%26+PyTest;Driven+by+Clean+Code%2C+DevOps+Best+Practices%2C+and+Test+Reliability" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Welcome to my automation corner of the internet</h1>
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/satvik-jayalwal-697264227)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SatvikJayalwal)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:satvikjayalwal2003@gmail.com)
 
 ---
@@ -64,39 +66,30 @@ Looking forward to contributing to a team where software quality is a priority, 
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-plain.svg" width="40" alt="YAML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/null/external-yaml-a-human-friendly-data-serialization-standard-that-can-be-used-in-conjunction-logo-bold-tal-revivo.png" width="40" alt="YAML"/>
 
   <!-- Automation & Testing -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" alt="Selenium"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" alt="PyTest"/>
-  <img src="https://img.icons8.com/color/48/000000/test-tube.png" width="40" alt="TestNG" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-allure-a-lightweight-flexible-multi-language-test-report-tool-logo-color-tal-revivo.png" width="40" alt="Allure"/>
+  <img src="https://img.icons8.com/color/48/selenium-test-automation.png" width="40" alt="Selenium"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="40" alt="Postman"/>
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/test-tube.png" width="40" alt="PyTest/TestNG"/>
 
   <!-- CI/CD & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40" alt="GitHub Actions"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
 
-  <!-- Database -->
+  <!-- DB & Project -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-
-  <!-- Project Management -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" alt="JIRA"/>
-
-  <!-- Generative AI -->
-  <img src="https://img.icons8.com/color/48/openai.png" width="40" alt="OpenAI"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" alt="Hugging Face"/>
-  <img src="https://avatars.githubusercontent.com/u/103125063?s=200&v=4" width="40" alt="LangChain"/>
 </p>
+
 
 ---
 
