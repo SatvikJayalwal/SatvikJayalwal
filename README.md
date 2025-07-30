@@ -1,5 +1,5 @@
 <h2 align="center">
-  🚀 Empowering Quality Through Code, Automation & Precision Testing
+  Empowering Quality Through Code, Automation & Precision Testing
 </h2>
 
 <div align="center">
