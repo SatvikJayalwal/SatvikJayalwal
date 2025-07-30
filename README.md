@@ -1,37 +1,13 @@
-<!-- Title Line -->
-<h2 align="center" style="color:#38BDF8; font-family:'JetBrains Mono', monospace;">
-  ⚡ Automation that empowers every deploy ⚡
-</h2>
-
-<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=5000&pause=2000&color=38BDF8&center=true&vCenter=true&width=900&lines=I+write+code+that+watches+other+code+fail+—+beautifully." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1500&color=2F81F7&background=FF000000&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Satvik+Jayalwal+-+SDET+(Software+Development+Engineer+in+Test);I+write+code+that+watches+other+code+fail+—+beautifully.;I+automate+so+you+can+innovate.;Clean+code.+Smart+tests.+Fewer+surprises.;Automating+trust%2C+one+test+at+a+time.;I+test+like+a+developer+%E2%80%94+think+like+a+user." alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/ArshErgon/ArshErgon/main/assets/header/lineBar.png" width="100%" height="8px"/>
 </div>
 
-<!-- Spacer to avoid overlap -->
-<br /><br />
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px" height="35px">
+  Welcome to my intelligent corner of the internet
+</h1>
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/assets/header/lineBar.png" width="85%" height="6px" alt="Divider"/>
-</p>
-
-<!-- Connect With Me Heading -->
-<h3 align="center">
-  🌐 Connect with Me
-</h3>
-
-<!-- Contact Buttons -->
-<p align="center">
-  <a href="https://linkedin.com/in/satvik-jayalwal-697264227">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:satvikjayalwal2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</p>
-
-<br /><br />
 
 ## About Me
 
