@@ -1,19 +1,25 @@
-<!-- Professional Welcome Statement -->
+<!-- Headline -->
 <h2 align="center" style="color:#38BDF8; font-family:'JetBrains Mono', monospace;">
   ⚡ Empowering Quality Through Automation, DevOps & Precision Testing ⚡
 </h2>
 
-<!-- Typing SVG with Better Speed & Readability -->
+<!-- Typing Animation with Better Line Wrap -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Satvik+Jayalwal+-+SDET+%7C+Automation+Engineer;Framework+Architect+with+Selenium%2C+PyTest%2C+CI%2FCD;Clean+Code+%7C+DevOps+Best+Practices+%7C+Test+Reliability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Clean+Code+%7C+DevOps+Best+Practices+%7C+Test+Reliability" alt="Typing SVG" />
 </div>
 
-<!-- Animated Lightning Divider (Now Renders Correctly) -->
-<div align="center" style="margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/assets/header/lineBar.png" width="90%" height="8px" alt="Lightning Divider" />
-</div>
+<!-- Divider with Padding Fix -->
+<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/assets/header/lineBar.png" width="85%" height="8px" alt="Divider"/>
+</p>
 
-<!-- Connect With Me -->
+<!-- Connect with Me Heading -->
+<h3 align="center">
+  🌐 Connect with Me
+</h3>
+
+<!-- Contact Buttons (GitHub Removed) -->
 <p align="center">
   <a href="https://linkedin.com/in/satvik-jayalwal-697264227">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,10 +27,9 @@
   <a href="mailto:satvikjayalwal2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/SatvikJayalwal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
 </p>
+
+<br />
 
 
 
