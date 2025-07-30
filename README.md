@@ -1,19 +1,19 @@
-<!-- Glowing Welcome Headline -->
-<h2 align="center" style="color:#38BDF8; font-family:'JetBrains Mono', monospace; font-size: 22px; text-shadow: 0 0 5px #38BDF8, 0 0 10px #38BDF8;">
-  ⚡ Empowering Quality Through Code, Automation & Precision Testing ⚡
+<!-- Professional Welcome Statement -->
+<h2 align="center" style="color:#38BDF8; font-family:'JetBrains Mono', monospace;">
+  ⚡ Empowering Quality Through Automation, DevOps & Precision Testing ⚡
 </h2>
 
-<!-- Typing SVG Banner -->
+<!-- Typing SVG with Better Speed & Readability -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Satvik+Jayalwal+-+SDET+%28Software+Development+Engineer+in+Test%29;Crafting+Resilient+Test+Frameworks+with+Selenium+%7C+PyTest+%7C+CI%2FCD;Driving+Quality+through+Automation%2C+DevOps%2C+and+Clean+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Satvik+Jayalwal+-+SDET+%7C+Automation+Engineer;Framework+Architect+with+Selenium%2C+PyTest%2C+CI%2FCD;Clean+Code+%7C+DevOps+Best+Practices+%7C+Test+Reliability" alt="Typing SVG" />
 </div>
 
-<!-- Lightning Line Divider -->
-<div align="center" style="margin-top: 10px; margin-bottom: 15px;">
-  <img src="https://raw.githubusercontent.com/roshanrahman/lightning-divider/main/animated-divider.svg" width="90%" alt="Divider" />
+<!-- Animated Lightning Divider (Now Renders Correctly) -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/assets/header/lineBar.png" width="90%" height="8px" alt="Lightning Divider" />
 </div>
 
-<!-- Connect With Me Section -->
+<!-- Connect With Me -->
 <p align="center">
   <a href="https://linkedin.com/in/satvik-jayalwal-697264227">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </p>
+
 
 
 ## About Me
