@@ -1,18 +1,31 @@
-<h2 align="center">
-  Empowering Quality Through Code, Automation & Precision Testing
+<!-- Glowing Welcome Headline -->
+<h2 align="center" style="color:#38BDF8; font-family:'JetBrains Mono', monospace; font-size: 22px; text-shadow: 0 0 5px #38BDF8, 0 0 10px #38BDF8;">
+  ⚡ Empowering Quality Through Code, Automation & Precision Testing ⚡
 </h2>
 
+<!-- Typing SVG Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Satvik+Jayalwal+-+SDET (Software Development Engineer in Test);I+Build+Robust+Test+Frameworks+with+CI%2FCD%2C+Selenium+%26+PyTest;Driven+by+Clean+Code%2C+DevOps+Best+Practices%2C+and+Test+Reliability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Satvik+Jayalwal+-+SDET+%28Software+Development+Engineer+in+Test%29;Crafting+Resilient+Test+Frameworks+with+Selenium+%7C+PyTest+%7C+CI%2FCD;Driving+Quality+through+Automation%2C+DevOps%2C+and+Clean+Engineering" alt="Typing SVG" />
 </div>
 
+<!-- Lightning Line Divider -->
+<div align="center" style="margin-top: 10px; margin-bottom: 15px;">
+  <img src="https://raw.githubusercontent.com/roshanrahman/lightning-divider/main/animated-divider.svg" width="90%" alt="Divider" />
+</div>
 
-## 🌐 Connect with Me
+<!-- Connect With Me Section -->
+<p align="center">
+  <a href="https://linkedin.com/in/satvik-jayalwal-697264227">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:satvikjayalwal2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/SatvikJayalwal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/satvik-jayalwal-697264227)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:satvikjayalwal2003@gmail.com)
-
----
 
 ## About Me
 
