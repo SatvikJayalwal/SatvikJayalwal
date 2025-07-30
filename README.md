@@ -1,25 +1,27 @@
-<!-- Headline -->
+<!-- Title Line -->
 <h2 align="center" style="color:#38BDF8; font-family:'JetBrains Mono', monospace;">
-  ⚡ Empowering Quality Through Automation, DevOps & Precision Testing ⚡
+  ⚡ Automation that empowers every deploy ⚡
 </h2>
 
-<!-- Typing Animation with Better Line Wrap -->
+<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Clean+Code+%7C+DevOps+Best+Practices+%7C+Test+Reliability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=5000&pause=2000&color=38BDF8&center=true&vCenter=true&width=900&lines=I+write+code+that+watches+other+code+fail+—+beautifully." alt="Typing SVG" />
 </div>
 
-<!-- Divider with Padding Fix -->
-<br />
+<!-- Spacer to avoid overlap -->
+<br /><br />
+
+<!-- Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/assets/header/lineBar.png" width="85%" height="8px" alt="Divider"/>
+  <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/assets/header/lineBar.png" width="85%" height="6px" alt="Divider"/>
 </p>
 
-<!-- Connect with Me Heading -->
+<!-- Connect With Me Heading -->
 <h3 align="center">
   🌐 Connect with Me
 </h3>
 
-<!-- Contact Buttons (GitHub Removed) -->
+<!-- Contact Buttons -->
 <p align="center">
   <a href="https://linkedin.com/in/satvik-jayalwal-697264227">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -29,9 +31,7 @@
   </a>
 </p>
 
-<br />
-
-
+<br /><br />
 
 ## About Me
 
@@ -90,13 +90,10 @@ Looking forward to contributing to a team where software quality is a priority, 
 <p align="left">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/null/external-yaml-a-human-friendly-data-serialization-standard-that-can-be-used-in-conjunction-logo-bold-tal-revivo.png" width="40" alt="YAML"/>
-
   <!-- Automation & Testing -->
   <img src="https://img.icons8.com/color/48/selenium-test-automation.png" width="40" alt="Selenium"/>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="40" alt="Postman"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/test-tube.png" width="40" alt="PyTest/TestNG"/>
-
+  
   <!-- CI/CD & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
