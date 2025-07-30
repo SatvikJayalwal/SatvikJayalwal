@@ -1,13 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1500&color=2F81F7&background=FF000000&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Satvik+Jayalwal+-+SDET+(Software+Development+Engineer+in+Test);I+write+code+that+watches+other+code+fail+—+beautifully.;I+automate+so+you+can+innovate.;Clean+code.+Smart+tests.+Fewer+surprises.;Automating+trust%2C+one+test+at+a+time.;I+test+like+a+developer+%E2%80%94+think+like+a+user." alt="Typing SVG" />
-  <img src="https://raw.githubusercontent.com/ArshErgon/ArshErgon/main/assets/header/lineBar.png" width="100%" height="8px"/>
+  <!-- Typing SVG Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1500&color=2F81F7&background=FF000000&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Satvik+Jayalwal+-+SDET+(Software+Development+Engineer+in+Test);I+write+code+that+watches+other+code+fail+—+beautifully.;I+automate+so+you+can+innovate.;Clean+code.+Smart+tests.+Fewer+surprises.;Automating+trust%2C+one+test+at+a+time.;I+test+like+a+developer+%E2%80%94+think+like+a+user." alt="Typing SVG" style="max-width:100%;"/>
+  
+  <!-- Divider -->
+  <br />
+  <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/assets/header/lineBar.png" width="85%" height="6px" alt="Divider"/>
 </div>
 
+<!-- Welcome Line -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px" height="35px">
-  Welcome to my intelligent corner of the internet
+  Welcome 
 </h1>
-
 
 ## About Me
 
