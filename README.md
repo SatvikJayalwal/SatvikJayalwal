@@ -7,10 +7,53 @@ Welcome to my professional space where I build robust and scalable automation fr
 
 ## About Me
 
-- Final year B.Tech student in Computer Science at Dronacharya College of Engineering
-- Strong foundation in Python-based automation and testing methodologies
-- Experience developing full Selenium-PyTest frameworks for both simple and complex UIs
+- Final year B.Tech student in Computer Science at Dronacharya College of Engineering  
+- Strong foundation in Python-based automation and testing methodologies  
+- Experience developing full Selenium-PyTest frameworks for both simple and complex UIs  
 - Passionate about continuous learning, system design, and clean code practices
+
+---
+
+## SDET Profile Summary
+
+I am a tenacious and detail-driven SDET (Software Development Engineer in Test) with hands-on experience building scalable, maintainable automation frameworks for both UI and API testing. I specialize in delivering high-quality software through test automation, continuous integration, and strong engineering principles. My work reflects a deep commitment to clean code, structured testing, and real-world reliability.
+
+### Technical Skill Set
+
+**Automation Tools & Languages:**  
+Python, Selenium WebDriver, PyTest, Behave (BDD), XPath Locators, CSS Selectors
+
+**Framework Design:**  
+Modular POM structure, reusable utility functions, fixtures, hooks, Excel-driven test suites, dynamic waits, assertions
+
+**API Testing:**  
+Postman, Python requests, REST API validation, JSON schema verification, status code checks
+
+**CI/CD & DevOps:**  
+Jenkins, Docker, Git, GitHub Actions — building and managing automation pipelines with source control
+
+**Testing Lifecycle & Agile:**  
+Jira for bug tracking and sprint tasks, Agile/Scrum methodology, test planning and execution within sprint cycles
+
+**Other Areas:**  
+Linux-based automation, MySQL database testing, command-line scripting, backend validation, web scraping
+
+---
+
+### Why I Stand Out as an SDET
+
+- I don’t just automate — I design test solutions that are scalable, reusable, and built for long-term reliability  
+- I focus on clean, modular code to ensure smooth collaboration and maintainability across teams  
+- I proactively log, debug, and report bugs to accelerate development feedback cycles  
+- I bring strong ownership, a collaborative mindset, and consistent delivery in Agile teams
+
+---
+
+### Mindset
+
+I believe the best SDETs combine developer-level thinking with user-centric testing and engineering-grade automation. I stay continuously updated with the latest tools, patterns, and practices to improve quality and shorten feedback loops. Whether working on a framework or testing critical business logic, I strive for precision, clarity, and impact.
+
+Looking forward to contributing to a team where software quality is a priority, automation is embraced, and continuous learning is encouraged.
 
 ---
 
@@ -38,17 +81,13 @@ Welcome to my professional space where I build robust and scalable automation fr
 ## Featured Projects
 
 ### [Amazon Automation Framework](https://github.com/SatvikJayalwal/AutomatingAmazon)
-- Built using Selenium + PyTest
-- Automates end-to-end flow: product search, add to cart, login, checkout
-- Data-driven from Excel, with assertions, waits, and GitHub integration
+Automates end-to-end flow: product search, add to cart, login, checkout using Selenium, PyTest, Excel data, and CI hooks.
 
 ### [CoverYou Automation](https://github.com/SatvikJayalwal/CoverYouAutomation)
-- Health and Motor claim automation with modal form testing
-- Includes smart waits, helper functions, and modular architecture
+Health and Motor claim automation including modal form testing, Selenium helper layers, and multi-tab scenarios.
 
 ### [Blockchain-Based Cloud Storage](https://github.com/SatvikJayalwal/Bloackchain_Decentralized_cloud_storage_system)
-- React + IPFS + Smart Contract based secure file storage
-- Role-based access control using Ethereum smart contracts
+A React + IPFS + smart contract-based file storage system with access control.
 
 ---
 
@@ -63,19 +102,10 @@ Welcome to my professional space where I build robust and scalable automation fr
 
 ## Certifications
 
-- Selenium Automation – Udemy (Rahul Shetty, 18h course)
+- Selenium Automation – Udemy (18 hours, Rahul Shetty)
 - Python for Everybody – Coursera
 - Microsoft Power BI Analyst – Microsoft
 - Python 3.4.3 – IIT Bombay Spoken Tutorial
-
----
-
-## Learning & Focus
-
-- Building reusable frameworks using PyTest and Selenium
-- Improving API test coverage using Postman and Python requests
-- Exploring CI with Jenkins and GitHub Actions
-- Integrating logs, screenshots, and reporting into test pipelines
 
 ---
 
@@ -90,4 +120,3 @@ Welcome to my professional space where I build robust and scalable automation fr
 ## 5-Year Vision
 
 I aim to build deep automation systems that not only ensure software quality but also enable confidence in engineering pipelines. I see myself contributing to enterprise-level test architectures and evolving into a DevTestOps leader.
-
