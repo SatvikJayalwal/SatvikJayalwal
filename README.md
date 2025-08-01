@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px" height="25px">
   Hello World
 </h1>
-
 ---
 
 ## About Me
