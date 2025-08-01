@@ -3,12 +3,11 @@
   Hello World
 </h1>
 
-# About Me
+## About Me
 
 - Final year B.Tech student in Computer Science at Dronacharya College of Engineering  
 - Strong foundation in Python-based automation frameworks and testing methodologies  
 - Experience developing full Selenium-PyTest frameworks for complex Frontend (UI) and Backend (API, Database)  
-- Passionate about continuous learning, system design, and clean code practice
 
 ---
 ## 🌐 Connect with Me
