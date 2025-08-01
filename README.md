@@ -1,3 +1,14 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&background=FF000000&center=true&vCenter=true&width=700&lines=Hey%2C+Myself+Satvik+Jayalwal;SDET+%26+Software+Development+Engineer+in+Test;QA+%7C+Python+Automation+Engineer;" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/ArshErgon/ArshErgon/main/assets/header/lineBar.png" width="100%" height="8px"/>
+</div>
+
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px" height="25px">
+  Welcome
+</h1>
+
 ## About Me
 
 - Final year B.Tech student in Computer Science at Dronacharya College of Engineering  
@@ -9,7 +20,7 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-jayalwal-697264227/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:satvikjayalwalips@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:satvikjayalwalips@gmail.com)
 
 ---
 
