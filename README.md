@@ -126,7 +126,8 @@ A React + IPFS + smart contract-based file storage system with access control.
 
 ## 5-Year Vision
 
-I aim to build deep automation systems that not only ensure software quality but also enable confidence in engineering pipelines. I see myself contributing to enterprise-level test architectures and evolving into a DevTestOps leader.
+In the next 5 years, I want aim to become a senior SDET—leading automation efforts, guiding team members, and making sure our products are high quality and help the company grow.
+In the next 5 years, I aim to grow into a leadership SDET role—driving automation strategy, mentoring teams, and delivering quality engineering that directly supports company growth and product excellence.
 
 ---
 
