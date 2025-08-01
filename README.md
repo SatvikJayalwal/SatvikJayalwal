@@ -6,6 +6,12 @@
 - Passionate about continuous learning, system design, and clean code practice
 
 ---
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-jayalwal-697264227/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:satvikjayalwalips@gmail.com)
+
+---
 
 ## SDET Profile Summary
 
