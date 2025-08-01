@@ -12,8 +12,6 @@
   
 ## [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-jayalwal-697264227/)
 
----
-
 ## SDET Profile Summary
 
 I am a tenacious and detail-driven SDET (Software Development Engineer in Test) with hands-on experience building scalable, maintainable automation frameworks for Frontend (UI) and Backend (API, Database) testing. I specialize in delivering high-quality software through test automation, continuous integration, and strong engineering principles. My work reflects a deep commitment to clean code, structured testing, and real-world reliability.
