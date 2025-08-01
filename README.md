@@ -9,7 +9,8 @@
 - Final year B.Tech student in Computer Science at Dronacharya College of Engineering  
 - Strong foundation in Python-based automation frameworks and testing methodologies  
 - Experience developing full Selenium-PyTest frameworks for complex Frontend (UI) and Backend (API, Database)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-jayalwal-697264227/)
+  
+LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-jayalwal-697264227/)
 
 ---
 
