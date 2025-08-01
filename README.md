@@ -10,7 +10,7 @@
 - Strong foundation in Python-based automation frameworks and testing methodologies  
 - Experience developing full Selenium-PyTest frameworks for complex Frontend (UI) and Backend (API, Database)
   
-LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-jayalwal-697264227/)
+## [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-jayalwal-697264227/)
 
 ---
 
