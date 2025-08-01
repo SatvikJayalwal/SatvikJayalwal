@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px" height="25px">
-  Welcome
+  Hello World
 </h1>
 
 ## About Me
