@@ -1,20 +1,32 @@
 ## About Me
 
 - Final year B.Tech student in Computer Science at Dronacharya College of Engineering  
-- Strong foundation in Python-based automation and testing methodologies  
-- Experience developing full Selenium-PyTest frameworks for both simple and complex UIs  
-- Passionate about continuous learning, system design, and clean code practices
+- Strong foundation in Python-based automation frameworks and testing methodologies  
+- Experience developing full Selenium-PyTest frameworks for complex Frontend (UI) and Backend (API, Database)  
+- Passionate about continuous learning, system design, and clean code practice
 
 ---
 
 ## SDET Profile Summary
 
-I am a tenacious and detail-driven SDET (Software Development Engineer in Test) with hands-on experience building scalable, maintainable automation frameworks for both UI and API testing. I specialize in delivering high-quality software through test automation, continuous integration, and strong engineering principles. My work reflects a deep commitment to clean code, structured testing, and real-world reliability.
+I am a tenacious and detail-driven SDET (Software Development Engineer in Test) with hands-on experience building scalable, maintainable automation frameworks for Frontend (UI) and Backend (API, Database) testing. I specialize in delivering high-quality software through test automation, continuous integration, and strong engineering principles. My work reflects a deep commitment to clean code, structured testing, and real-world reliability.
+
+Core Skills:
+
+- UI automation with Selenium, PyTest, Playwright
+- API testing using Postman, Python Requests, Newman
+- Test types: Smoke, Sanity, Regression, Functional, Integration, Cross-browser
+- Test planning, test case design, and requirement traceability
+- CI/CD pipelines using Jenkins, GitHub Actions, Docker
+- Backend testing and DB validation (MySQL, Linux CLI)
+- BDD automation using Behave with Allure reporting
+- Defect lifecycle management: logging, triage, reproduction, verification
+- Agile development and SDLC: sprint planning, story-based automation
 
 ### Technical Skill Set
 
 **Automation Tools & Languages:**  
-Python, Selenium WebDriver, PyTest, Behave (BDD), XPath Locators, CSS Selectors
+Python, Selenium, PyTest, Behave (BDD), XPath Locators, CSS Selectors
 
 **Framework Design:**  
 Modular POM structure, reusable utility functions, fixtures, hooks, Excel-driven test suites, dynamic waits, assertions
@@ -90,18 +102,19 @@ A React + IPFS + smart contract-based file storage system with access control.
 ## GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SatvikJayalwal&show_icons=true&theme=default&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatvikJayalwal&layout=compact&theme=default" />
 </p>
 
 ---
 
 ## Certifications
-
-- Selenium Automation – Udemy (18 hours, Rahul Shetty)
-- Python for Everybody – Coursera
-- Microsoft Power BI Analyst – Microsoft
-- Python 3.4.3 – IIT Bombay Spoken Tutorial
+- Selenium WebDriver with PYTHON from Scratch + Frameworks – Udemy June 2025
+  Certificate Link: https://www.udemy.com/certificate/UC-344ac3ca-1ed6-4a25-91df-1a19f354c9f2/
+- Python Backend Automation Testing (SDET) – Udemy July 2025
+  Certificate Link: https://www.udemy.com/certificate/UC-dc45a8d2-e376-4fe3-a9d0-6ed82db464a5/
+- NPTEL – Software Engineering (Ongoing)
+- NPTEL – Software Project Management (Ongoing)
+- ISTQB – Certified Tester Foundation Level (CTFL) v4.0 (Ongoing)
 
 ---
 
