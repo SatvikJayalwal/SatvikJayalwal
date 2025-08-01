@@ -110,14 +110,6 @@ A React + IPFS + smart contract-based file storage system with access control.
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatvikJayalwal&layout=compact&theme=default" />
-</p>
-
----
-
 ## Certifications
 - Selenium WebDriver with PYTHON from Scratch + Frameworks – Udemy June 2025
   Certificate Link: https://www.udemy.com/certificate/UC-344ac3ca-1ed6-4a25-91df-1a19f354c9f2/
