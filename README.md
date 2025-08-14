@@ -18,8 +18,8 @@ I am a tenacious and detail-driven SDET (Software Development Engineer in Test) 
 
 Core Skills:
 
-- UI automation with Selenium, PyTest, Playwright
-- API testing using Postman, Python Requests, Newman
+- UI automation with Selenium, PyTest
+- API testing using Postman, Python Requests
 - Test types: Smoke, Sanity, Regression, Functional, Integration, Cross-browser
 - Test planning, test case design, and requirement traceability
 - CI/CD pipelines using Jenkins, GitHub Actions, Docker
@@ -112,12 +112,6 @@ A React + IPFS + smart contract-based file storage system with access control.
 - NPTEL – Software Engineering (Ongoing)
 - NPTEL – Software Project Management (Ongoing)
 - ISTQB – Certified Tester Foundation Level (CTFL) v4.0 (Ongoing)
-
----
-
-## Resume
-
-- [Download Resume (PDF)](https://github.com/SatvikJayalwal/SatvikJayalwal/blob/main/resume.pdf)
 
 ---
 
