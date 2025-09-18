@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  SDET | Automation Testing | Manual Testing | AI Enthusiast  
+  SDET | Automation Testing | API Testing | Manual Testing | AI Enthusiast  
 </p>
 
 <p align="center">
