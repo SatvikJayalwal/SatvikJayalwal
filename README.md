@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Software Development Engineer in Test (SDET) | Automation Testing | Manual Testing | GenAI Enthusiast  
+  SDET | Automation Testing | Manual Testing | AI Enthusiast  
 </p>
 
 <p align="center">
