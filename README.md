@@ -1,7 +1,11 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px" height="25px">
-  Hello World
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35">
+  Hello World, I'm <span style="color:#2F80ED">Satvik Jayalwal</span> 👨‍💻
 </h1>
+
+<p align="center">
+  SDET | Automation Testing | API Testing | Manual Testing | AI Enthusiast  
+</p>
 
 
 ## About Me
